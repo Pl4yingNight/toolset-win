@@ -4,5 +4,6 @@ setting up and configuring Windows systems (Servers + Clients)
 
 Contents
 + [Group Policy Object (GPO)](./group-policy-object#group-policy-object-gpo)
++ [OID Generation](./oid-generation#oid-generation)
 + [Windows Admin Center (WAC)](./windows-admin-center#windows-admin-center-wac)
 + [Windows Network Shares](./network-shares#windows-network-shares)
